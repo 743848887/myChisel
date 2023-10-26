@@ -15,7 +15,7 @@ For a comprehensive overview of LLDB, and how Chisel complements it, read Ari Gr
 brew update
 brew install chisel
 ```
-
+ 
 if `.lldbinit` file doesn't exist you can create it & open it by tapping on the terminal
 
  ```shell
