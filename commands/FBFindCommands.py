@@ -13,7 +13,6 @@ import fbchisellldbobjcruntimehelpers as objc
 import fbchisellldbviewcontrollerhelpers as vcHelpers
 import lldb
 
-
 def lldbcommands():
     return [FBFindViewControllerCommand(), FBFindViewCommand(), FBTapLoggerCommand()]
 
